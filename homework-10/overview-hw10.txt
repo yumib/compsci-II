@@ -1,0 +1,5 @@
+The purpose of Homework 10 challenged students to find an efficient and accurate search algorithm that is utilized as 
+autocompleter function (similar to that of texting on phones).
+
+File "main-hw10.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete" as well as an interactive mode that lets the client test out code (uncomment it out).

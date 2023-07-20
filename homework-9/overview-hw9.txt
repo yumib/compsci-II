@@ -1,0 +1,5 @@
+The purpose of Homework 9 uses pointers and brute force to hack randomized passwords. Guessed passwords on hack.cpp
+file take into account a set of rules for each user. 
+
+File "main-hw9.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".

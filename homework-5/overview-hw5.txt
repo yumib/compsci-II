@@ -1,0 +1,6 @@
+The purpose of Homework 5 is to practically introduce pointers and add on to Homework 1. Here, we use a pointer 
+to refer to a Pokedex.txt file that refers to every Pokemon's name, index, and type. The pokedex.cpp file allows 
+for removal, addition, and finding of pokemon based on the pokedex.
+
+File "main-hw5.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".

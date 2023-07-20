@@ -1,0 +1,5 @@
+The purpose of Homework 7 is to practically introduce Nodes and adds on to Homework 7. The same functions are 
+found in Homework 6 and 7 except 7 is made using Nodes.
+
+File "main-hw7.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".

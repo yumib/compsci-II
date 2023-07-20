@@ -1,0 +1,5 @@
+The purpose of Homework 11 is to challenge students to create a better sorting algorithm than the script provided by 
+the professor. An in-depth reason as to why my code is more efficient is found at the bottom of "sort.cpp".
+
+File "main-11.cpp" outputs the time taken to deploy the script, and if done in a timely manner "Assignment Complete"
+is shown.

@@ -1,0 +1,6 @@
+The purpose of Homework 6 is to practically introduce Queues. This script acts like a game queue where players
+wait to be paired with other players based on a role they chose (i.e. Defender, Hunter, Bard) and be grouped
+with other players as a complete team. 
+
+File "main-hw6.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".

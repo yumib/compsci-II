@@ -1,0 +1,6 @@
+The purpose of Homework 3 is to use more a more complex understanding of 2D arrays by adding
+on to the task of Homework 2. Increasing complexity includes creating code that can add more letters 
+to a single grid based on main-hw3.cpp file.
+
+File "main-hw3.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".

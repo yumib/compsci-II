@@ -1,0 +1,4 @@
+The purpose of Homework 8 serves the same function as Homework 4 except using nodes to travel between browser histories. 
+
+File "main-hw8.cpp" includes an interactive mode that lets the client go to different urls and travel through their
+history.

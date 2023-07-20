@@ -1,0 +1,6 @@
+The purpose of Homework 4 serves as a practical introduction to Stacks. In this assignment, we think of Stacks 
+like a browser- where you can go to websites and move back and forth through the browser history. The code also 
+takes into account special cases. 
+
+File "main-hw4.cpp" includes an interactive mode that lets the client go to different urls and travel through their
+history.

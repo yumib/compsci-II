@@ -1,0 +1,6 @@
+The purpose of Homework 2 is to use more a more complex understanding of 2D arrays to make 
+letter, dynamically change what type of character used to make the letter, and return the 
+letter as a line of string.
+
+File "main-hw2.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".
