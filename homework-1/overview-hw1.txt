@@ -1,0 +1,6 @@
+The purpose of Homework 1 is to refresh previous knowledge on 2D arrays. As seen, we try to make a dynamic 
+table that returns the damage multiplier of a pokemon's attack depending on the opposing (randomized) pokemon.
+This table accounts for any and every pairing. 
+
+File "main-hw1.cpp" includes instructor code that checks the student code. If the student code runs correctly, 
+output will be "Assignment Complete".
